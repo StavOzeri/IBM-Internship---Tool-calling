@@ -1,0 +1,11 @@
+# environment / secrets
+.env
+
+*.log
+*.pyc
+*.cpython-312.pyc
+*.cpython
+
+
+# Ollama Data
+src/dataset/LLM-service/ollama_data/

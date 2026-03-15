@@ -1,0 +1,6 @@
+2026-01-07 15:42:38,573 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Check_a_ZIP_file_s_status
+2026-01-07 15:42:38,575 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Get_a_ZIP_file_s_download_url
+2026-01-07 15:42:38,577 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Download_a_ZIP_file
+2026-01-07 15:42:38,588 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Get_a_list_of_popular_threat_categories
+2026-01-07 15:42:38,599 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Get_a_widget_rendering_URL
+2026-01-07 15:42:38,623 [WARNING] mcp.server.fastmcp.tools.tool_manager - Tool already exists: Get_a_list_of_MonitorHashes_detected_by_an_engine
